@@ -12,5 +12,6 @@ void main()
  for(i = 1 ; i <= n ; i++) 
   if(i % d == 0) 
    printf("%d\t", i) ; 
- getch() ; 
+ getch() ;
+ return(0);
 }
