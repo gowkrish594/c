@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-  int main()
+  void main()
         {
          int a, b, c, d, e, f, g, h, i, j, p, q, w, x, y, z, large;
          clrscr();
