@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<conio.h>
 #include<string.h>
-int main(void) {
+void main() {
 	char a[100];
 	gets(a);
 	int i,count=1;
